@@ -7,8 +7,8 @@ Hi I'm Jo.
 1. have Node.js and git installed
 
 2. Clone the repo:
-```bash
-git clone https://github.com/TheJosie/CodecademyMixedMessages.git ```
+
+```git clone https://github.com/TheJosie/CodecademyMixedMessages.git```
 
 3. Navigate to the folder via terminal
 
