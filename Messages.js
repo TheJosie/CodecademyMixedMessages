@@ -1,4 +1,6 @@
 
+console.log("I can read your mind and stuff.");
+console.log("Here's my answer I guess.");
 //generates random response
 genResponse = Math.floor(Math.random() * 8);us
 //response that generates
